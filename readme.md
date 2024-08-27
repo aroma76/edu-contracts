@@ -56,6 +56,6 @@ The current deployed contract address on the Ethereum network is:
 For inquiries or further information, please contact:
 
 **Name:** Soram Sonu Singha  
-**Email:** sonusingha76@gmail.com.com  
+**Email:** sonuxingha76@gmail.com.com  
 
 
