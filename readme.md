@@ -1,4 +1,5 @@
 
+
 # Education Investment Fund
 
 ## Vision
@@ -37,6 +38,11 @@ The Education Investment Fund contract allows users to contribute funds, which a
 +----------------+      +---------------------+
 ```
 
+## Contract Address
+
+The current deployed contract address on the Ethereum network is:
+
+**0xd8836A0c94fed8827F529A3d5f1cBa2F204b663b**
 
 ## Future Scope
 
@@ -44,4 +50,12 @@ The Education Investment Fund contract allows users to contribute funds, which a
 - **Fund Allocation:** Develop mechanisms to allocate funds to specific educational projects or initiatives.
 - **Governance:** Introduce a decentralized governance model for decision-making on fund distribution.
 - **Integration:** Explore integration with educational institutions for better fund utilization and impact measurement.
+
+## Contact Details
+
+For inquiries or further information, please contact:
+
+**Name:** Soram Sonu Singha  
+**Email:** sonusingha76@gmail.com.com  
+
 
