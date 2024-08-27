@@ -1,6 +1,7 @@
 
 
 # Education Investment Fund
+![education](https://github.com/user-attachments/assets/2b616b9b-24a9-4e53-9087-1ce470d36782)
 
 ## Vision
 
